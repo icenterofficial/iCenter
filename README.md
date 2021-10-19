@@ -1,2 +1,2 @@
 # iCenter
-Welcome to iCenter on github.com.
+Welcome to iCenter on github.com
